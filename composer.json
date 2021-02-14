@@ -1,9 +1,9 @@
 {
-    "name": "qortex/graph-sdk",
+    "name": "facebook/graph-sdk",
     "description": "Facebook SDK with PHP 8 support",
     "keywords": ["facebook", "sdk"],
     "type": "library",
-    "homepage": "https://github.com/QortexDevs/php-graph-sdk",
+    "homepage": "https://github.com/facebook/php-graph-sdk",
     "license": "MIT",
     "authors": [
         {
